@@ -10,7 +10,7 @@ namespace Rank.Services.Tests
         public void TestMethod1()
         {
             Assert.Pass();
-            //test
+            //test 2
         }
     }
 }
