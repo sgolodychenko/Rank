@@ -9,6 +9,7 @@ namespace Rank.Services.Tests
         [Test]
         public void TestMethod1()
         {
+            Assert.Pass();
         }
     }
 }
