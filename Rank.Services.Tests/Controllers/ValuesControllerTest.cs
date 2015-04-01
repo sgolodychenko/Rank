@@ -18,7 +18,6 @@ namespace Rank.Services.Tests.Controllers
         {
             // Arrange
             ValuesController controller = new ValuesController();
-            //changes
             // Act
             IEnumerable<string> result = controller.Get();
 
