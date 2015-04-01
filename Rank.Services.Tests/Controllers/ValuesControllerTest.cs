@@ -18,10 +18,9 @@ namespace Rank.Services.Tests.Controllers
         {
             // Arrange
             ValuesController controller = new ValuesController();
-            //changes
             // Act
             IEnumerable<string> result = controller.Get();
-
+            //develop
             // Assert
             Assert.IsNotNull(result);
             Assert.AreEqual(2, result.Count());
