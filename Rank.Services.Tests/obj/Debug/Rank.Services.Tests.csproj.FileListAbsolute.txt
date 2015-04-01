@@ -29,3 +29,5 @@ c:\users\serhiy_golodychenko\Documents\Visual Studio 2012\Projects\Rank.Services
 c:\users\serhiy_golodychenko\Documents\Visual Studio 2012\Projects\Rank.Services\Rank.Services.Tests\obj\Debug\Rank.Services.Tests.csprojResolveAssemblyReference.cache
 c:\users\serhiy_golodychenko\Documents\Visual Studio 2012\Projects\Rank.Services\Rank.Services.Tests\obj\Debug\Rank.Services.Tests.dll
 c:\users\serhiy_golodychenko\Documents\Visual Studio 2012\Projects\Rank.Services\Rank.Services.Tests\obj\Debug\Rank.Services.Tests.pdb
+C:\Users\serhiy_golodychenko\Documents\Visual Studio 2012\Projects\Rank.Services\Rank.Services.Tests\bin\Debug\nunit.framework.dll
+C:\Users\serhiy_golodychenko\Documents\Visual Studio 2012\Projects\Rank.Services\Rank.Services.Tests\bin\Debug\nunit.framework.xml
