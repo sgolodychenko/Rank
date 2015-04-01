@@ -20,7 +20,7 @@ namespace Rank.Services.Tests.Controllers
             ValuesController controller = new ValuesController();
             // Act
             IEnumerable<string> result = controller.Get();
-            //one more time
+            //develop
             // Assert
             Assert.IsNotNull(result);
             Assert.AreEqual(2, result.Count());
