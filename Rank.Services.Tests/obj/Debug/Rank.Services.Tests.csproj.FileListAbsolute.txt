@@ -31,3 +31,36 @@ C:\Users\serhiy_golodychenko\Documents\Visual Studio 2012\Projects\Rank.Services
 C:\Users\serhiy_golodychenko\Documents\Visual Studio 2012\Projects\Rank.Services\Rank.Services.Tests\obj\Debug\Rank.Services.Tests.csprojResolveAssemblyReference.cache
 C:\Users\serhiy_golodychenko\Documents\Visual Studio 2012\Projects\Rank.Services\Rank.Services.Tests\obj\Debug\Rank.Services.Tests.dll
 C:\Users\serhiy_golodychenko\Documents\Visual Studio 2012\Projects\Rank.Services\Rank.Services.Tests\obj\Debug\Rank.Services.Tests.pdb
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\Rank.Services.Tests.dll.config
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\Rank.Services.Tests.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\Rank.Services.Tests.pdb
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\nunit.framework.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\Rank.Services.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Web.Http.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Web.Razor.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\Rank.Services.pdb
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\nunit.framework.xml
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Web.Http.xml
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Web.Razor.xml
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\obj\Debug\Rank.Services.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\obj\Debug\Rank.Services.Tests.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Tests\obj\Debug\Rank.Services.Tests.pdb

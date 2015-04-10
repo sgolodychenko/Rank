@@ -5,3 +5,10 @@ C:\Users\serhiy_golodychenko\Documents\Visual Studio 2012\Projects\Rank.Services
 C:\Users\serhiy_golodychenko\Documents\Visual Studio 2012\Projects\Rank.Services\Rank.Services.Integration.Tests\bin\Debug\nunit.framework.xml
 C:\Users\serhiy_golodychenko\Documents\Visual Studio 2012\Projects\Rank.Services\Rank.Services.Integration.Tests\obj\Debug\Rank.Services.Integration.Tests.dll
 C:\Users\serhiy_golodychenko\Documents\Visual Studio 2012\Projects\Rank.Services\Rank.Services.Integration.Tests\obj\Debug\Rank.Services.Integration.Tests.pdb
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Integration.Tests\bin\Debug\Rank.Services.Integration.Tests.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Integration.Tests\bin\Debug\Rank.Services.Integration.Tests.pdb
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Integration.Tests\bin\Debug\nunit.framework.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Integration.Tests\bin\Debug\nunit.framework.xml
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Integration.Tests\obj\Debug\Rank.Services.Integration.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Integration.Tests\obj\Debug\Rank.Services.Integration.Tests.dll
+D:\Projects\Rank\sandpit\Rank.Services\Rank.Services.Integration.Tests\obj\Debug\Rank.Services.Integration.Tests.pdb
