@@ -18,6 +18,7 @@ namespace Rank.Services.Integration.Tests
             var content = response.Content.ReadAsStringAsync();
             Console.WriteLine(content.Status);
             Console.WriteLine(content.Result);
+            ///new line
         }
         
     }
