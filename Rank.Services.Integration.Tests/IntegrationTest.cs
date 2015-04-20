@@ -11,14 +11,13 @@ namespace Rank.Services.Integration.Tests
         [Test]
         public void ConnectivityTest()
         {
-            string page = "http://localhost:85";
+            string page = "http://localhost";
 
             var client = new HttpClient();
             var response = client.GetAsync(page).Result;
             var content = response.Content.ReadAsStringAsync();
             Console.WriteLine(content.Status);
-            Console.WriteLine(content.Result);
-            ///new line
+            Console.WriteLine(content.Result);            
         }
         
     }
